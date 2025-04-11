@@ -43,4 +43,4 @@ A simple web app that uses Natural Language Processing (NLP) and a Machine Learn
 ---
 
 ## 📦 Folder Structure
-
+fake-news-detector/ |--app.py #Streamlit web app
