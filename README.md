@@ -43,7 +43,7 @@ A simple web app that uses Natural Language Processing (NLP) and a Machine Learn
 ---
 
 ## 📦 Folder Structure
-'''
+```
 📁 fake-news-detector/
 ├── app.py                 # Streamlit web app
 ├── vectorizer.pkl         # TF-IDF vectorizer file
@@ -51,5 +51,6 @@ A simple web app that uses Natural Language Processing (NLP) and a Machine Learn
 ├── requirements.txt       # Python libraries list
 ├── README.md              # This file
 └── screenshots/           # Folder with app screenshots
-    ├── prediction.png
-'''
+    ├── ui.png
+    └── prediction.png
+```
