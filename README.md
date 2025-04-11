@@ -15,9 +15,6 @@ A simple web app that uses Natural Language Processing (NLP) and a Machine Learn
 
 ## 📸 Screenshots
 
-### 🔍 Main Interface
-![UI](screenshots/ui.png)
-
 ### 📥 Input & Output
 ![Prediction](screenshots/prediction.png)
 
